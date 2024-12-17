@@ -1,16 +1,27 @@
-## Hi there 👋
+🚀 About Me
+Hi there! 👋 I’m Leonardo, a passionate developer and aspiring IT professional. I’m currently training as an Informatiker (IT Specialist), diving into the world of coding, software development, and smart technologies.
 
-<!--
-**veroleone/veroleone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack & Tools
+Languages: HTML, CSS, JavaScript, Node.js
+Frameworks/Libraries: Phaser.js, React, Express.js
+Tools: Git, Home Assistant, IONOS, Heroku
+Hardware & IoT: Raspberry Pi, M5Stack, EnOcean, Zigbee
+🌟 What I’m Working On
+Portfolio Website: Live Project 🔒
+StackMaster: A Phaser.js-based web game for platforms like Poki and Crazy Games.
+Home Automation: Integrating EnOcean and Zigbee devices into Home Assistant to create a smart home environment.
+🎯 Goals
+Expand my web development skills (front-end & back-end).
+Build innovative IoT solutions with Raspberry Pi.
+Create high-quality projects that solve real-world problems.
+📚 Learning
+Advanced Phaser.js for game development.
+Cloud deployment and scaling strategies.
+Automation and integration with IoT devices.
+🧩 Fun Facts
+I’m a football enthusiast ⚽ and love exploring retro & modern games 🎮.
+Always curious and ready to solve technical challenges.
+📫 How to reach me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: [Add Email]
+LinkedIn: [Add Profile]
