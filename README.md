@@ -30,7 +30,7 @@ I’m currently training as an **Informatiker (IT Specialist)**, diving into the
 ## 🎯 Goals  
 - Expand my web development skills (front-end & back-end).  
 - Build innovative IoT solutions with Raspberry Pi.  
-- Create high-quality projects that solve real-world problems.  
+- Create high-quality projects that solve real-world problems.. 
 
 ---
 
